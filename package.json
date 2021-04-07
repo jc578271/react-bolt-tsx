@@ -1,5 +1,5 @@
 {
-  "name": "beehive-product",
+  "name": "exmaple",
   "version": "1.0.0",
   "scripts": {
     "clean": "trash /dist",
@@ -9,7 +9,7 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "keywords": [],
-  "author": "Robert Nguyen <robert.nguyen279@gmail.com>",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "@babel/preset-env": "^7.12.11",
